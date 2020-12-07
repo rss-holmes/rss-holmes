@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <!-- Banner -->
 ![rss-holmes' github stats](https://github-readme-stats.vercel.app/api?username=rss-holmes&show_icons=true)
 
-
 ### Hi there 👋 I'm Rohan,
 
 A technophile by heart , I love hacking away at any technology I can get my hands on.
