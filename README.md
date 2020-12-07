@@ -27,7 +27,7 @@ A data engineer passionate about Data Science :bar_chart:. I like automating thi
 	- Linear regression on Health data
 	- Twitter Sentimental Analysis using NLP and clustering
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+- 💬 Talk to me about Anime :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing **Machine learning**.
 
 
@@ -43,14 +43,6 @@ A data engineer passionate about Data Science :bar_chart:. I like automating thi
  <img height="60" width="60" src="https://www.aldakur.net/wp-content/uploads/2017/03/docker-logo-1024x914.png" />&nbsp;&nbsp;&nbsp;
  <img height="60" width="60" src="https://camo.githubusercontent.com/8298328a921a558fc17a231edb75f35504ec6d30/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3132303070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" />&nbsp;&nbsp;&nbsp;
 </p>
-
-<!--<div align="center">-->
-
-## Contact
- - [email](mailto:rss.holmes@gmail.com)
- - [Twitter DM](https://twitter.com/rss_holmes)
- - [LinkedIn](https://www.linkedin.com/in/rohan-sen-sharma/)
- - [Blog](https://rss-holmes.github.io/blog/)
  
 <hr>
 <p align="center">
